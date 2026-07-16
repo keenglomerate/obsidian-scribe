@@ -28,6 +28,6 @@ A Model Context Protocol (MCP) server that connects local Obsidian note vaults t
    ```json
    "obsidian-scribe": {
      "command": "python3",
-     "args": ["/home/keen/Desktop/Projects and Codes/obsidian_scribe/obsidian_server.py"]
+     "args": ["/absolute/path/to/obsidian_scribe/obsidian_server.py"]
    }
    ```
