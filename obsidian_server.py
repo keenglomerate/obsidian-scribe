@@ -8,7 +8,7 @@ from mcp.server.fastmcp import FastMCP
 mcp = FastMCP("obsidian-scribe")
 
 # Configure path to the Obsidian Vault
-VAULT_DIR = os.path.expanduser("~/Documents/Obsidian Vault")
+VAULT_DIR = os.path.expanduser("~/Obsidian Vault")
 
 def get_safe_path(title: str) -> str:
     """Resolve note title to an absolute path, preventing path traversal attacks."""
