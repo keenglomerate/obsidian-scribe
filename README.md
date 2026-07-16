@@ -1,8 +1,6 @@
 # 🗂️ ObsidianScribe: Obsidian Vault MCP Server
 
-ObsidianScribe is a Model Context Protocol (MCP) server that exposes a local **Obsidian notes Vault** directly to your AI agents (such as Google Antigravity). 
-
-It allows your AI assistant to read, search, write, and organize your studies, logs, and markdown files.
+A Model Context Protocol (MCP) server that connects local Obsidian note vaults to AI assistants, enabling secure reading, writing, searching, and updating of Markdown notes.
 
 ---
 
